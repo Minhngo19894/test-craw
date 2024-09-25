@@ -7,6 +7,8 @@
   "author": "Lukas Prochazka <prochazka.lu@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
     "puppeteer": "^19.7.2"
   },
   "scripts": {
